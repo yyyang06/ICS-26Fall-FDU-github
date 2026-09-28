@@ -6,4 +6,5 @@ int main()
     printf("Hello, world!\n");
     printf("Hello,ICS!\n");
     printf("Hello,main!\n");
+    printf("Hello,feature!\n");
 }
